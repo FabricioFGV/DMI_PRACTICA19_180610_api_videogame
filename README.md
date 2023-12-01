@@ -16,7 +16,7 @@ Descripción: Este código implementa un controlador para la creación de un jug
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | Practica 19: Implementación de los seeders en el API para las tablas games y players.                                     |
 | Descripción            | Descripción: Este código implementa un controlador para la creación de un jugador en una aplicación utilizando JavaScript y el framework Node.js. En particular, hace uso de un modelo llamado "Player" importado desde el archivo "../models/Player.js". La función createPlayer toma datos del cuerpo de la solicitud (req.body), como el nombre, correo electrónico, apodo y fecha de nacimiento del jugador. Luego, intenta crear un nuevo jugador utilizando el método create del modelo Player. Dependiendo del resultado de la creación, responde con un mensaje de éxito o un mensaje de error, utilizando códigos de estado HTTP correspondientes (200 para éxito, 400 para error de cliente, 500 para error interno del servidor). |
-| Fecha de Carga         | 10/11/23                                                                 |
+| Fecha de Carga         | 01/12/23                                                                 |
 
 # Screenshots
 
