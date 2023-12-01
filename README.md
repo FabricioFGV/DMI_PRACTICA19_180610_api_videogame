@@ -22,14 +22,14 @@ Descripción: Este código implementa un controlador para la creación de un jug
 
 <table>
   <tr>
-    <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/Screenshots/Screenshot1.png" width="300"></td>
-    <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/Screenshots/Screenshot2.png" width="300"></td>
+    <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/screenshots/screenshot1.png" width="300"></td>
+    <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/screenshots/screenshot2.png" width="300"></td>
   </tr>
  <tr>
-  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/Screenshots/Screenshot3.png" width="300"></td>
+  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/screenshots/screenshot3.png" width="300"></td>
+  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/screenshots/screenshot4.png" width="300"></td>
  </tr>
  <tr>
-  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/Screenshots/Screenshot4.png" width="300"></td>
-  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/Screenshots/Screenshot5.png" width="300"></td>
+  <td><img src="https://github.com/FabricioFGV/DMI_PRACTICA19_180610_api_videogame/blob/main/screenshots/screenshot5.png" width="300"></td>
  </tr>
 </table>
